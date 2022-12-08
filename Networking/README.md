@@ -53,5 +53,3 @@ A unique identifier is used to locate a resource on the Internet. Lilke HTML, JS
 
 
 <!--<p align="center"><img alt="" src=""></p> -->
-
-
